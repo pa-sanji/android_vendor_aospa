@@ -14,7 +14,7 @@
   <project path="system/bpf" name="pa-sanji/android_system_bpf" remote="github" revision="celerity" />
   <project path="kernel/configs" name="aospa-pipa/android_kernel_configs" remote="github" revision="calcite" />
   <project path="hardware/interfaces" name="aospa-pipa/android_hardware_interfaces" remote="github" revision="calcite" />
-  <project path="device/qcom/common" name="aospa-pipa/android_device_qcom_common" remote="github" revision="calcite">
+  <project path="device/qcom/common" name="pa-sanji/android_device_qcom_common" remote="github" revision="pipa-port">
     <linkfile dest="vendor/qcom/build/tasks/generate_extra_images.mk" src="generate_extra_images.mk" />
   </project>
   <project path="system/memory/libion" name="aospa-pipa/android_system_memory_libion" remote="github" revision="calcite" />
