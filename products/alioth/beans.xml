@@ -20,7 +20,7 @@
   <project path="hardware/qcom/display" name="AOSPA/android_hardware_qcom_display" remote="github" revision="vauxite-865" />
   <project path="hardware/qcom/gps" name="AOSPA/android_hardware_qcom_gps" remote="github" revision="vauxite-legacy-component" />
   <project path="hardware/qcom/media" name="AOSPA/android_hardware_qcom_media" remote="github" revision="vauxite-865" />
-  <project path="vendor/qcom/opensource/audio-hal/primary-hal" name="AOSPA/android_hardware_qcom_audio" remote="github" revision="vauxite-865" />
+  <project path="vendor/qcom/opensource/audio-hal/primary-hal" name="pa-sanji/android_hardware_qcom_audio" remote="github" revision="celerity" />
   <project path="vendor/qcom/opensource/thermal-hal" name="AOSPA/android_hardware_qcom_thermal" remote="github" revision="calcite-legacy" />
   <project path="vendor/nxp/opensource/halimpl" name="AOSPA/android_vendor_nxp_opensource_halimpl" remote="github" revision="vauxite-SN100X-legacy" />
   <project path="vendor/nxp/opensource/hidlimpl" name="AOSPA/android_vendor_nxp_opensource_hidlimpl" remote="github" revision="vauxite-SN100X-legacy" />
